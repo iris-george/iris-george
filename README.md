@@ -7,6 +7,8 @@ My name is Iris George! I'm an undergraduate student at the University of Albert
 - 👯 I'm looking to collaborate on just about anything!
 - 🤔 I'm looking for help with any mistakes you might spot in my work and various R code trouble-shooting.
 - 💬 Ask me about my work or any questions you have about my repos.
-- 📫 I can be reached best at my email (igeorge@ualberta.ca) and you can also find me on the [Change Lab webpage](https://greenlab.ca/about/).
+- 📫 Contact me at: igeorge@ualberta.ca.
+  - I can also be found on Research Gate @ Iris George.
+  - Or on the [Change Lab webpage](https://greenlab.ca/about/).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: fish are far superior to humans 🐠 > 👫
